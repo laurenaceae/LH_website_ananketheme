@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
