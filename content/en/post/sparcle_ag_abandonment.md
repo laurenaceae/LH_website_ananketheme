@@ -5,6 +5,7 @@ featured_image: "/images/IMG_9040.JPG"
 tags: 
 - research
 - agriculture
+- landscape ecology
 title: 'Agricultural Abandonment'
 ---
 

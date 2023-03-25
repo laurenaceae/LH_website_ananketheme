@@ -2,4 +2,4 @@
 date: "2023-03-24T12:00:00-05:00"
 title: Projects
 ---
-Here you can find more information on specific projects I have worked on (and some that I am still working on). Dates on posts refer to the date the post was published, not the date the project began. 
+Here you can find more information on specific projects I have worked on. Projects range from homework assignments to multi-year efforts with the goal of scientific publication. 
