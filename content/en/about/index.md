@@ -6,6 +6,8 @@ menu:
     weight: 1
 title: About
 ---
-{{< figure src="/images/IMG_3045_edit5.JPG" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/IMG_3045_edit5.JPG" title="Lauren Harris, MESM 2023" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Lauren Harris received her Bachelor of Science in Ecology and Evolution with Distinction in the Major from the University of California, Santa Barbara In 2021. She is currently a graduate student at the Bren School working towards a Masters in Environmental Science and Management (MESM) with a specialization in conservation planning (expected 6/23). 
+
+Lauren is particularly passionate about plant ecology in a landscape context. Plants are an integral part of terrestrial ecology; they are abundant, primary producers which influence and are influenced by the landscape. The goal is to use our insights on this relationship to better understand how to mitigate the effects of urbanization and climate change, and how to restore ecosystems already degraded by these factors. 
