@@ -1,0 +1,35 @@
+title: Lauren Harris
+baseURL: https://gohugo-theme-ananke.pages.dev
+languageCode: en-us
+disableLanguages:
+- fr
+theme: gohugo-theme-ananke
+resourceDir: ../resources
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 3
+googleAnalytics: ''
+enableRobotsTXT: yes
+languages:
+  en:
+    contentDir: content/en
+    title: Ananke
+    weight: 1
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+params:
+  ananke_socials:
+    - name: twitter
+      url: https://twitter.com/laurenaceae
+  author: ''
+  background_color_class: bg-black
+  description: description
+  favicon:
+    url: /favicon.ico
+    static_files: favicon.ico
+    upload: favicon.ico
+  recent_posts_number: 3
+  site_logo: ''
+  text_color: ''
