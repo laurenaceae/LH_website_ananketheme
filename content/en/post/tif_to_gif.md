@@ -3,8 +3,8 @@ date: "2023-03-24T10:58:08-04:00"
 description: An R package for turning raster files into an animated GIF file
 featured_image: /images/foresce_pink_header.png
 tags: 
-- package
-- landscape ecology
+- R Package
+- Landscape Ecology
 title: 'TIF to GIF'
 ---
 

@@ -3,7 +3,7 @@ date: "2023-03-24T11:14:48-04:00"
 description: A Bren Group Project
 featured_image: "/images/IMG_4177.JPG"
 tags: 
-- research
+- Research
 - Bren
 title: 'Collaborative Conservation Planning for the Gaviota Region'
 ---

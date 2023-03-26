@@ -3,7 +3,7 @@ date: "2023-03-24T11:14:48-04:00"
 description: ESM 263 Geographic Information Systems
 featured_image: "/images/ocean_encelia.JPG"
 tags: 
-- assignment
+- Assignment
 - Bren
 - GIS
 title: 'ESM 263 GIS Assignments'

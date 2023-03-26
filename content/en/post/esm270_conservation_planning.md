@@ -4,13 +4,13 @@ description: ESM270 Conservation Planning
 featured_image: /images/IMG_2317_edit.JPG
 tags:
 - Bren
-- assignment
+- Assignment
 - GIS
-- landscape ecology
-title: 'ESM 270 Conservation Planning Maps'
+- Landscape Ecology
+title: 'ESM 270 Conservation Planning Assignments'
 ---
 
-The maps included on this page are snippets of assignments that I submitted for ESM 270 Conservation Planning. The full assignments also included co-written lab reports co-written by myself and a peer, of which only the summaries are included here. All maps below are my own, created with ArcGIS. 
+The assignments included on this page are snippets of assignments that I submitted for ESM 270 Conservation Planning. The full assignments also included co-written lab reports from myself and a peer, of which only the summaries are included here. All maps below are my own, created with ArcGIS. 
 
 __Lab 4 Summary:__ Jaguars (Panthera onca) of the Talamanca-Osa region of Southern Costa Rica are experiencing habitat fragmentation from human land use. A Circuitscape and Linkage Mapper analysis of least cost paths and land use types in this area show that agricultural pastures and palm plantations are the largest threats to jaguars. Suggested solutions to reduce human-jaguar conflict include buffers and wetlands. 
 

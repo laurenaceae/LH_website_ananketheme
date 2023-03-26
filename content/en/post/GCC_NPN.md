@@ -3,9 +3,9 @@ date: "2023-03-24T11:14:48-04:00"
 description: A feasibility study for a potential new native plant nursery
 featured_image: /images/IMG_2278_edit.JPG
 tags:
-- research
-- agriculture
-- native plants
+- Research
+- Agriculture
+- Native Plants
 title: 'GCC Native Plant Nursery Project'
 ---
 
