@@ -4,7 +4,7 @@ description: ESM 263 Geographic Information Systems
 featured_image: "/images/ocean_encelia.JPG"
 tags: 
 - assignment
-- bren
+- Bren
 - GIS
 title: 'ESM 263 GIS Assignments'
 ---

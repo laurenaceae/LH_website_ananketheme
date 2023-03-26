@@ -4,6 +4,7 @@ description: A Bren Group Project
 featured_image: "/images/IMG_4177.JPG"
 tags: 
 - research
+- Bren
 title: 'Collaborative Conservation Planning for the Gaviota Region'
 ---
 
