@@ -1,5 +1,5 @@
 ---
-date: "2023-03-24T10:58:08-04:00"
+date: "2020-09-24T10:58:08-04:00"
 description: What are the best fire cues to germinate 19 different California native chaparral species?
 featured_image: /images/seed_bank_seeds.JPG
 tags: 

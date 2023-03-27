@@ -1,5 +1,5 @@
 ---
-date: "2020-01-01T10:58:08-04:00"
+date: "2020-11-01T10:58:08-04:00"
 description: Provided product-style plant photos for UCSB's Intro Bio series website
 featured_image: /images/cyathea.jpg
 tags: 
