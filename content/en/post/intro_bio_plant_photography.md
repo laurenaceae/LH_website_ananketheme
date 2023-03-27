@@ -1,10 +1,9 @@
 ---
-date: "2020-01-00T10:58:08-04:00"
+date: "2020-01-01T10:58:08-04:00"
 description: Provided product-style plant photos for UCSB's Intro Bio series website
 featured_image: /images/cyathea.jpg
 tags: 
 - Photography
-- Native Plants
 title: 'UCSB Intro Bio Plant Photography'
 ---
 
@@ -22,7 +21,7 @@ __Links to UCSB Intro Bio Plant Websites:__
 
 [Exercise 6. Plant Walk](https://sites.google.com/ucsb.edu/ex-6-plant-walk/home?authuser=0)
 
-__Featured photos:__
+__A selection of my photos from the website:__
 
 {{< figure src="/images/selaginella.jpg" title="Selaginella kraussiana" >}}
 
