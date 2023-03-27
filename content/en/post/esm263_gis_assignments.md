@@ -1,7 +1,7 @@
 ---
 date: "2022-01-01T11:14:48-04:00"
 description: ESM 263 Geographic Information Systems
-featured_image: "/images/ocean_encelia.JPG"
+featured_image: "/images/foresce_bluegreen_crop.png"
 tags: 
 - Assignment
 - Bren
