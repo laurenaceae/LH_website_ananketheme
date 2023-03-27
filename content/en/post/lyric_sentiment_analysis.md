@@ -6,7 +6,7 @@ tags:
 - R Package
 - Assignment
 - Bren
-title: 'Lyric Sentiment Analysis of Top 100 Songs'
+title: 'Lyric Sentiment Analysis R Package'
 ---
 
 For this assignment in ESM 262 Environmental Computing, we were asked to come up with a creative function, visualize the outputs, and then turn that function into a working package for public use. 

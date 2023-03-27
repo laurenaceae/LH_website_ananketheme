@@ -9,6 +9,7 @@ tags:
 title: 'ESM 263 GIS Assignments'
 ---
 
+This class was intended to build a working knowledge of GIS theory and practice in a single quarter. GIS, or Geographic Information Systems, are used to visualize, analyze, and interpret geographic data. Three of my assignments for this class are displayed below. 
 
 {{< figure src="/images/GIS_LH_HW2.jpg" title="Assignment 2" >}}
 
