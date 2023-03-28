@@ -1,6 +1,6 @@
 ---
 date: "2022-12-08T10:58:08-04:00"
-description: Final Solutions Paper for ESM 295A Equity and the Environment
+description: "*Do not remove the catch from a trap that is not yours"
 featured_image: /images/IMG_4177.JPG
 tags: 
 - Writing Sample
@@ -49,9 +49,6 @@ Due to population growth, climate change, overfishing, and inadequate national d
 __Conclusion__
 
 Colonization has had strong and lasting effects on the island of Guåhan’s people and natural resources. The current state of the environment is highly impacted by the political status of Guåhan as an unincorporated organized territory of the US. As evidenced by the two superfund sites of US military origin and the current US military efforts to use open burns and open detonations on Guåhan beaches, its territory status is not to the benefit of the island and its environment, nor its people. In comparison to the nearby Republic of Palau, a sovereign country, Guåhan is much less prepared for the impacts of climate change. CHamoru fisheries are particularly at risk given the nature of climate change, and research shows that rising pressures will lead to insufficient fishing resources for Guam, with impacts on food security and culture. The best path forward for environmental and cultural sustainability on Guåhan is sovereignty. 
-
-\* Do not remove the catch from a trap that is not yours
-Citations
 
 __Citations__
 
@@ -104,3 +101,6 @@ US EPA, O. (n.d.-a). ANDERSEN AIR FORCE BASE Site Profile [Overviews and Factshe
 US EPA, O. (n.d.-b). ORDOT LANDFILL Site Profile [Overviews and Factsheets]. Retrieved December 8, 2022, from https://cumulis.epa.gov/supercpad/CurSites/srchsites.cfm
 
 Walker, L. W. (1945, March). Guam’s Seizure by the United States in 1898 on JSTOR. http://www.jstor.org/stable/3634509
+
+__Assignment details:__
+This article was written for the final solutions paper for ESM 295A Equity and the Environment
