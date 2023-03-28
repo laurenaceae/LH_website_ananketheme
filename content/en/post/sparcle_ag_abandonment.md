@@ -6,6 +6,7 @@ tags:
 - Research
 - Agriculture
 - Landscape Ecology
+- GIS
 title: 'Agricultural Abandonment'
 ---
 
