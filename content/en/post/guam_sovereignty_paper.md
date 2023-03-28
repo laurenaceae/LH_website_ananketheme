@@ -10,8 +10,6 @@ tags:
 title: 'A Message for the United States: Munga Mañuha ni ti Gigao-mu*'
 ---
 
-__Introduction__
-
 The colonial history of Guam (hereafter referred to as Guåhan from the indigenous CHamoru language) is not over, and its impacts carry into the present, especially for people and the environment. Initiating full self-governance of Guåhan is a critical step to ensure lasting environmental protection. Without sovereignty, Guåhan will continue to experience environmental degradation and pollution, particularly from the US military, with unfavorable impacts on fisheries leading to food insecurity and cultural losses. 
 
 __The Colonization of Guåhan__
@@ -34,7 +32,7 @@ __Palau: A Case Study__
 
 The Republic of Palau became independent in 1981 (Britannica, n.d.). Since its inception, Palau has had a history of environmental protection action and legislation. In its first year, the Republic of Palau enacted the “Environmental Quality Protection Act” to ensure simultaneous environmental protection and sustainable economic and social development (PalauGov, n.d.). Palau was also one of the founding members of the Nauru Agreement to facilitate cooperation of fisheries management for the common interest (Nauru - History | Britannica, n.d.). The members of this agreement collectively control and protect 25–30% of the global tuna supply and about 60% of the western and central Pacific tuna supply (Marie, 2011). These are just some of Palau’s oldest actions regarding environmental protection, as the nation continues this pattern into the present. 
 
-The difference between Palau and Guåhan is sovereignty (Bevacqua, 2021). While Palau is free to write their own laws and join international agreements of their own accord, Guåhan must follow the lead of the US. For Guåhan, the main governing document stems from the Guåhan Organic Act of 1950 (Organic Act of Guam | United States [1950] | Britannica, n.d.). Guåhan was encouraged to write a Constitution in the 1970s, but the freedom for its contents was limited as it cannot conflict with any part of the US federal law. This prevents Guåhan from enacting laws which regulate land ownership or the US military. 
+The difference between Palau and Guåhan is sovereignty (Bevacqua, 2021). While Palau is free to write their own laws and join international agreements of their own accord, Guåhan must follow the lead of the US. For Guåhan, the main governing document stems from the Guam Organic Act of 1950 (Organic Act of Guam | United States [1950] | Britannica, n.d.). Guåhan was encouraged to write a Constitution in the 1970s, but the freedom for its contents was limited as it cannot conflict with any part of the US federal law. This prevents Guåhan from enacting laws which regulate land ownership or the US military. 
 
 __The Argument for Sovereignty__
 
