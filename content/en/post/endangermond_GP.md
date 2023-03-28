@@ -1,7 +1,7 @@
 ---
 date: "2022-03-01T11:14:48-04:00"
 description: A Bren Group Project
-featured_image: "/images/IMG_4177.JPG"
+featured_image: "/images/IMG_9040.JPG"
 tags: 
 - Research
 - Bren

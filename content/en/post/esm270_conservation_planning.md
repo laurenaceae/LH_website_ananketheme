@@ -1,7 +1,7 @@
 ---
 date: "2022-03-01T11:14:48-04:00"
 description: ESM270 Conservation Planning
-featured_image: /images/lab6_header.png
+featured_image: /images/IMG_3703_edit.JPG
 tags:
 - Bren
 - Assignment
