@@ -1,6 +1,6 @@
 ---
 description: 'Lauren Harris'
-featured_image: /images/IMG_3703_edit.JPG
+featured_image: /images/IMG_2221_edit2.JPG
 menu:
   main:
     weight: 1
