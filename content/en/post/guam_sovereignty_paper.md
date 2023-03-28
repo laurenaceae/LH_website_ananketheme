@@ -7,6 +7,7 @@ tags:
 - Guam
 - Bren
 - Assignment
+- Environmental Justice
 title: 'A Message for the United States: Munga Mañuha ni ti Gigao-mu*'
 ---
 
