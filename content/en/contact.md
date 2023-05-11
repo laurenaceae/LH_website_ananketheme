@@ -8,6 +8,4 @@ type: page
 ---
 
 
-Leave a message at the beep! Thanks!
-
 {{< form-contact action="https://formspree.io/f/xoqznydy"  >}}
