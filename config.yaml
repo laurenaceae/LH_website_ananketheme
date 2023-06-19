@@ -30,6 +30,6 @@ params:
     url: /favicon.ico
     static_files: favicon.ico
     upload: favicon.ico
-  recent_posts_number: 3
+  recent_posts_number: 2
   site_logo: ''
   text_color: ''
