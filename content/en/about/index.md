@@ -6,7 +6,7 @@ menu:
     weight: 1
 title: About
 ---
-{{< figure src="/images/IMG_3045_edit5.JPG" title="Lauren Harris, MESM 2023" >}}
+{{< figure src="/images/IMG_3045_edit5.JPG" title="Lauren Harris, Staff Ecologist, MESM 2023" >}}
 
 Lauren Harris is the Staff Ecologist at Channel Islands Restoration, a 501(c)(3) non-profit contractor working to restore habitat on the Channel Islands and adjacent mainland. Here, she manages the organization's research, identifies and pursues grant funding, and develops plans for mitigation, restoration, and monitoring. Prior to this, she graduated from the Bren School at University of California, Santa Barbara (UCSB) with a Master of Environmental Science & Management (MESM) and a specialization in Conservation Planning (2023). Lauren also received her Bachelor of Science in Ecology and Evolution with Distinction in the Major from UCSB (2021).
 
